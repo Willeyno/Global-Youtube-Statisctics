@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Willeyno
+- 👋 Hi, I’m @Wilfred
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on any beginner html and css project
