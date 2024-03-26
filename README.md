@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wilfred
-- 👀 I’m love Data
+- 👀 I love Data
 - 🌱 I’m on a journey to become a Data engineer
 - 💞️ Let's collaborate
 - 📫 Let's connect 
