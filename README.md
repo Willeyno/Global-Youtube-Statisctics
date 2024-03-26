@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wilfred
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on any beginner html and css project
-- 📫 How to reach me ... willeyno@gmail.com
+- 👀 I’m love Data
+- 🌱 I’m on a journey to become a Data engineer
+- 💞️ Let's collaborate
+- 📫 Let's connect 
 
 <!---
 Willeyno/Willeyno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
